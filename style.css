@@ -1,0 +1,33 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  font-size: 16px;
+  background-color: #dfdfff;
+}
+header{
+  background-color:#00f;
+  color: #fff;
+  padding: 2em 2em 1em 1em;
+  text-align: right;
+}
+nav{
+  background-color:rgb(1, 1, 145);
+  color: #fff;
+}
+nav a{
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  padding: .2em .1em .2em .1em;
+}
+nav a:hover{
+  
+  color:#00f;
+  background-color: #fff;
+}
+nav li{
+  display: inline-block;
+  font-size: 1.2em;
+}
