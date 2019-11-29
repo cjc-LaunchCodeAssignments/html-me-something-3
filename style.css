@@ -5,6 +5,7 @@
 body{
   font-size: 16px;
   background-color: #dfdfff;
+
 }
 header{
   background-color:#00f;
@@ -12,7 +13,11 @@ header{
   padding: 2em 2em 1em 1em;
   text-align: right;
 }
+main{
+  padding: .5em;
+}
 h2{
+
   text-align: center;
 }
 nav{
@@ -41,7 +46,19 @@ nav li{
 .flex-container>p{
   width: 70%;
 }
-.flex-container>img{
+
+#xanga{
   height: 80px;
   width: auto;
+  margin: auto;
+  
+}
+#myspace{
+  
+  width: auto;
+  height: 100px;
+  margin: auto;
+}
+#html5{
+  margin: auto;
 }
