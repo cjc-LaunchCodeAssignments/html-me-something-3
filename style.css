@@ -41,3 +41,7 @@ nav li{
 .flex-container>p{
   width: 70%;
 }
+.flex-container>img{
+  height: 80px;
+  width: auto;
+}
