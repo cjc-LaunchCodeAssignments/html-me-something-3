@@ -34,3 +34,10 @@ nav li{
   display: inline-block;
   font-size: 1.2em;
 }
+.flex-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+.flex-container>p{
+  width: 70%;
+}
