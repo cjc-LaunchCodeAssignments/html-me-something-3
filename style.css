@@ -28,10 +28,11 @@ nav a{
   text-decoration: none;
   color: inherit;
   display: block;
-  padding: .2em .1em .2em .1em;
+  padding: .2em .3em .2em .3em;
+  border-left-style: solid;
+  border-left-color:#fff;
 }
-nav a:hover{
-  
+nav a:hover{ 
   color:#00f;
   background-color: #fff;
 }
