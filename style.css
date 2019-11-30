@@ -24,6 +24,7 @@ nav{
   background-color:rgb(1, 1, 145);
   color: #fff;
 }
+
 nav a{
   text-decoration: none;
   color: inherit;
@@ -41,6 +42,9 @@ nav li{
   font-size: 1.2em;
   margin:0;
   padding:0;
+}
+.navigationList{
+  text-align: right;
 }
 .flex-container{
   display: flex;
