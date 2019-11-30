@@ -68,3 +68,8 @@ nav li{
 #html5{
   margin: auto;
 }
+footer{
+  font-size: 1.2em;
+  color: #fff;
+  background-color: #00f;
+}
