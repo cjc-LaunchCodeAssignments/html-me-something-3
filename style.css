@@ -30,8 +30,7 @@ nav a{
   color: inherit;
   display: block;
   padding: .2em .3em .2em .3em;
-  border-left-style: solid;
-  border-left-color:#fff;
+  border: .1em solid #fff; 
 }
 nav a:hover{ 
   color:#00f;
