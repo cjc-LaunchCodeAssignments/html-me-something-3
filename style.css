@@ -52,7 +52,9 @@ nav li{
 .flex-container>p{
   width: 70%;
 }
-
+section{
+  margin: 1em 0;
+}
 #xanga{
   height: 80px;
   width: auto;
