@@ -17,8 +17,10 @@ main{
   padding: .5em;
 }
 h2{
-
   text-align: center;
+}
+h3{
+  margin: 1em 0;
 }
 nav{
   background-color:rgb(1, 1, 145);
