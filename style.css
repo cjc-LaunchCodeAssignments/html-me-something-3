@@ -30,7 +30,7 @@ nav a{
   color: inherit;
   display: block;
   padding: .2em .3em .2em .3em;
-  border: .1em solid #fff; 
+  border-left: .1em solid #fff; 
 }
 nav a:hover{ 
   color:#00f;
@@ -70,6 +70,7 @@ nav li{
 }
 footer{
   font-size: 1.2em;
+  text-align: center;
   color: #fff;
   background-color: #00f;
 }
